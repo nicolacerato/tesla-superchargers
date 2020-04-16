@@ -1,2 +1,3 @@
 # Tesla Supercharger network - how to develop insights for the future
-my blog post on Medium: 
+The code used can be found on: tesla-superchargers.ipynb
+My blog post on Medium: 
