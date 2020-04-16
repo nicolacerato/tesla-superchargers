@@ -1,3 +1,3 @@
 # Tesla Supercharger network. How to develop insights for the future
-The code used can be found on: tesla-superchargers.ipynb
+The Python code is tesla-superchargers.ipynb <br>
 My blog post on Medium: 
